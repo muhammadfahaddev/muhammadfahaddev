@@ -8,10 +8,10 @@ I am Muhammad Fahad, a Software Engineer. I love open source.
 
 <br><br>🧑‍💼 **DEVELOPMENT STACK**<br>
 
-       i. Backend Development: - Spring3, SpringBoot, PHP, Laravel.
-      ii. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf.
-     iii. Databases: - MySQL, Postgres.
-      iv. UX/UI Design: - Adobe XD, Figma.
+       i. Backend Development: - Django, PHP.
+      ii. Web Development: - HTML CSS, Bootstrap, JavaScript, JQuery, ReactJS.
+     iii. Databases: - MySQL, MS SQL Server.
+      iv. UX/UI Design: - Canva.
        v. Virtualization: - VMWARE.
 
 
