@@ -53,9 +53,11 @@ I'm always working on exciting projects and actively contributing to open source
 Explore my [repositories](https://github.com/MuhammadFahaddev) and let's collaborate!
 
 <div align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=MuhammadFahaddev&theme=radical" alt="GitHub Streak" />
+  <!-- GitHub Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFahaddev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahaddev&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
 ---
 
 ## 📫 Connect with Me
@@ -91,7 +93,7 @@ Explore my [repositories](https://github.com/MuhammadFahaddev) and let's collabo
 - ⚡ Fun fact: **[An Interesting Tidbit About You]**
 
 <div align="center">
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak (using Vercel deployment) -->
   <img src="https://github-readme-streak-stats.vercel.app/?user=MuhammadFahaddev&theme=radical" alt="GitHub Streak" />
 </div>
 
