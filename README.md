@@ -92,7 +92,7 @@ Explore my [repositories](https://github.com/MuhammadFahaddev) and let's collabo
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFahaddev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=MuhammadFahaddev&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
