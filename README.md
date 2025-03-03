@@ -271,22 +271,3 @@ Thanks for stopping by! Let's build something amazing together. 🚀
 ) for the latest posts and insights.
 
 ---
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFahaddev&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🎯 Hobbies & Interests
-
-- **Coding & Tech:** Constantly experimenting with new technologies.
-- **Design:** Enjoy creating digital art and UI/UX designs using Figma.
-- **Outdoors:** Love hiking and exploring nature.
-- **Photography:** Capturing moments, landscapes, and everyday life.
-
----
-
-Thanks for stopping by! Let's build something amazing together. 🚀
