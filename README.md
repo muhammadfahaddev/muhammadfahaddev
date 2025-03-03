@@ -1,9 +1,8 @@
 # Hi there, I'm Muhammad Fahad 👋
 
 <div align="center">
-  <!-- Profile Views -->
+  <!-- Profile Views & Follow Badge -->
   <img src="https://komarev.com/ghpvc/?username=MuhammadFahaddev&color=blue" alt="Profile Views" />
-  <!-- GitHub Follow -->
   <a href="https://github.com/MuhammadFahaddev">
     <img src="https://img.shields.io/github/followers/MuhammadFahaddev?label=Follow&style=social" alt="Follow @MuhammadFahaddev" />
   </a>
@@ -11,7 +10,7 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-I'm a passionate **Software Engineer** who loves open source and creating innovative solutions.
+I'm a passionate **Software Engineer** who loves open source and creating innovative solutions. Welcome to my GitHub profile!
 
 ---
 
@@ -51,11 +50,12 @@ I'm a passionate **Software Engineer** who loves open source and creating innova
 ## 🚀 Projects & Open Source Contributions
 
 I'm always working on exciting projects and actively contributing to open source.  
-Feel free to check out my [repositories](https://github.com/MuhammadFahaddev) and collaborate!
+Explore my [repositories](https://github.com/MuhammadFahaddev) and let's collaborate!
 
-<!-- Example GitHub Stats Card -->
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFahaddev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahaddev&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -92,6 +92,17 @@ Feel free to check out my [repositories](https://github.com/MuhammadFahaddev) an
 - 😄 Pronouns: **[Your Pronouns]**
 - ⚡ Fun fact: **[An Interesting Tidbit About You]**
 
+<div align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFahaddev&theme=radical" alt="GitHub Streak" />
+</div>
+
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadFahaddev&theme=radical" alt="GitHub Trophies" />
+</div>
 
 Thanks for stopping by, and let’s build something amazing together! 🚀
