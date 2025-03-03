@@ -1,6 +1,13 @@
 # Hi there, I'm Muhammad Fahad 👋
 
 <div align="center">
+  <!-- Portfolio Website -->
+  <a href="https://fahaddev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-fahaddev.vercel.app-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+</div>
+
+<div align="center">
   <!-- Profile Views & Follow Badge -->
   <img src="https://komarev.com/ghpvc/?username=MuhammadFahaddev&color=blue" alt="Profile Views" />
   <a href="https://github.com/MuhammadFahaddev">
