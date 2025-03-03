@@ -118,7 +118,7 @@ I occasionally share my thoughts on coding, tech trends, and personal growth. Ch
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MuhammadFahaddev&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFahaddev&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
 
 ---
