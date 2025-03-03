@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** with a knack for building scalable and efficient solutions. Over the years, I've honed my skills in both frontend and backend technologies, contributed to numerous open source projects, and continually strive to learn and innovate. Whether it's crafting robust web applications or exploring new tech trends, I'm always up for a challenge.
+I'm a passionate **Software Engineer** dedicated to building scalable solutions and contributing to open source. My journey spans both frontend and backend development, and I continuously explore new technologies to keep pushing the boundaries of innovation. Outside of coding, I enjoy learning about cloud computing, machine learning, and exploring creative design with tools like Figma.
 
 ---
 
@@ -46,6 +46,7 @@ I'm a passionate **Software Engineer** with a knack for building scalable and ef
 
   <!-- Design & Virtualization -->
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
 </div>
 
@@ -53,7 +54,8 @@ I'm a passionate **Software Engineer** with a knack for building scalable and ef
 
 ## 🚀 Projects & Open Source Contributions
 
-I actively work on diverse projects—from web applications to mobile solutions—and contribute to the open source community. Explore my work, check out my repositories, and feel free to collaborate!
+I actively work on diverse projects—from web applications to mobile solutions—and love contributing to the open source community.  
+Explore my [repositories](https://github.com/MuhammadFahaddev) and let's collaborate!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFahaddev&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -86,13 +88,14 @@ I actively work on diverse projects—from web applications to mobile solutions�
 
 ## 🌟 More About Me
 
-- **Current Project:** I'm currently focused on developing scalable web applications with modern tech stacks.
-- **Learning Journey:** Deep diving into cloud computing, machine learning, and blockchain to stay ahead in tech.
-- **Collaboration:** Always open to partnering on innovative projects and sharing ideas.
-- **Need Help?** I welcome feedback and advice on improving my projects and practices.
+- **Current Project:** Focused on developing scalable web applications with modern tech stacks.
+- **Learning Journey:** Deep diving into cloud computing, machine learning, and blockchain.
+- **Collaboration:** Open to innovative projects and idea exchanges.
+- **Need Help?** Always welcoming feedback to improve my work.
 - **Expertise:** Ask me about full-stack development, open source contributions, or modern web technologies.
 - **Pronouns:** He/Him
-- **Fun Fact:** When I'm not coding, I love exploring nature trails and indulging in photography.
+- **Fun Fact:** When I'm not coding, I enjoy exploring nature trails and photography.
+- **Certifications:** Continuously upgrading my skills with online courses and certifications in modern technologies.
 
 <div align="center">
   <!-- GitHub Streak (Vercel Deployment) -->
@@ -111,7 +114,8 @@ I actively work on diverse projects—from web applications to mobile solutions�
 
 ## 📝 Latest Blog Posts
 
-I occasionally share my thoughts on coding, tech trends, and personal growth. Check out my [blog](https://yourbloglink.com) for the latest posts and insights.
+I occasionally share my thoughts on coding, tech trends, and personal growth.  
+Check out my [blog](https://yourbloglink.com) for the latest posts and insights.
 
 ---
 
@@ -120,6 +124,15 @@ I occasionally share my thoughts on coding, tech trends, and personal growth. Ch
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFahaddev&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
+
+---
+
+## 🎯 Hobbies & Interests
+
+- **Coding & Tech:** Constantly experimenting with new technologies.
+- **Design:** Enjoy creating digital art and UI/UX designs using Figma.
+- **Outdoors:** Love hiking and exploring nature.
+- **Photography:** Capturing moments, landscapes, and everyday life.
 
 ---
 
