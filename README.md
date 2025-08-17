@@ -130,8 +130,6 @@ Core Values:
 - 🏆 **CATEGORY WINNER** - Most Innovative Idea, Innovate 4.0 Hackathon (ITCN Asia 2024)
 - 🥈 **Runner Up** - Web Programming Competition, Riphah International University 2023
 - 💰 **Cash Prize & Mentorship** - Innovate 4.0 Pitching Competition
-
-<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFahaddev/MuhammadFahaddev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadFahaddev/MuhammadFahaddev/output/github-contribution-grid-snake.svg">
