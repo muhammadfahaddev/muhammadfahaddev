@@ -140,15 +140,6 @@ Core Values:
 
 ---
 
-## 🚀 **FEATURED PROJECTS**
-
-<div align="center">
-
-<!-- Replace with your actual repository names -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadFahaddev&repo=your-main-project&theme=tokyonight&hide_border=true)](https://github.com/MuhammadFahaddev/your-main-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadFahaddev&repo=your-mobile-app&theme=tokyonight&hide_border=true)](https://github.com/MuhammadFahaddev/your-mobile-app)
-
-</div>
 
 ### 🎯 **Current Focus Areas**
 - 🔨 **Building:** Cross platform Web applications with testing and CI
@@ -157,20 +148,6 @@ Core Values:
 - 📚 **Learning:** Agentic and Robotic AI Engineer
 
 ---
-
-## 🤝 **COMMUNITY & LEADERSHIP**
-
-```yaml
-🌟 Community Roles:
-  - Management Team Member: Artificial Intelligence Community of Pakistan 
-  - Ambassador: Web3 Pak (March 2024 - February 2025)
-
-🎯 Contributions:
-  - Open source project maintenance
-  - Developer community mentoring
-  - Technical content creation
-  - Hackathon judging and mentoring
-```
 
 ---
 
