@@ -12,9 +12,6 @@
 
 <div align="center">
 
-<!-- Professional Typing Effect -->
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Software+Engineer;React+%7C+Node.js+%7C+TypeScript+Specialist;Building+Scalable+Digital+Solutions;Open+Source+Contributor" alt="Professional Typing"/> -->
-
 <br/>
 
 <!-- Professional Status Badges -->
@@ -24,7 +21,7 @@
 
 <br/>
 
-<!-- Elegant Profile Metrics -->
+<!-- Elegant Profile Metrics with cache busting -->
 <img src="https://komarev.com/ghpvc/?username=MuhammadFahaddev&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/MuhammadFahaddev?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=blue" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/MuhammadFahaddev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=star&logoColor=yellow&labelColor=1a1a1a&color=yellow" alt="Total Stars"/>
@@ -35,7 +32,7 @@
 
 <div align="center">
 
-## 👨‍💻 **PROFESSIONAL PROFILE**
+## 👨💻 **PROFESSIONAL PROFILE**
 
 </div>
 
@@ -106,12 +103,12 @@ Core Values:
 
 <div align="center">
 
-<!-- Advanced GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadFahaddev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahaddev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<!-- Advanced GitHub Stats with cache busting -->
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadFahaddev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahaddev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFahaddev&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFahaddev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 <!-- Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadFahaddev&theme=tokyonight"/>
