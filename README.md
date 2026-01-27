@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Muhammad%20Fahad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Muhammad%20Fahad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=55&descSize=18"/>
 
 </div>
 
