@@ -22,8 +22,7 @@
 <br/>
 
 <!-- Elegant Profile Metrics with cache busting -->
-<img src="https://komarev.com/ghpvc/?username=MuhammadFahaddev&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/MuhammadFahaddev?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=blue" alt="Followers"/>
+<img src="https://visitcount.itsvg.in/api?id=MuhammadFahaddev&label=Profile%20Views&color=00D9FF&icon=5&pretty=true" alt="Profile Views"/><img src="https://img.shields.io/github/followers/MuhammadFahaddev?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=blue" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/MuhammadFahaddev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=star&logoColor=yellow&labelColor=1a1a1a&color=yellow" alt="Total Stars"/>
 
 </div>
