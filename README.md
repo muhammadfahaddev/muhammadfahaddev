@@ -15,7 +15,7 @@
 <br/>
 
 <!-- Professional Status Badges -->
-<img src="https://img.shields.io/badge/🌐_Portfolio-fahaddev.vercel.app-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-thefahad.app-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Portfolio"/>
 <img src="https://img.shields.io/badge/💼_Status-Available%20for%20Projects-00C851?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1a1a" alt="Available"/>
 <img src="https://img.shields.io/badge/📍_Location-Pakistan-0066CC?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a1a" alt="Location"/>
 
@@ -38,20 +38,20 @@
 
 ```yaml
 Name: Muhammad Fahad
-Title: Software Engineer, Full Stack & Mobile
-Experience: Web and Mobile Application Development, API integration, DevOps basics
+Title: Software Engineer (Full Stack, Mobile, AI)
+Experience: Fintech, AI & Machine Learning, Healthcare, and Enterprise SaaS
 Location: Pakistan 🇵🇰
 
 Current Focus:
-  - Full Stack Web Development (React, Next.js, Node.js)
-  - Cross platform Mobile Development (React Native, Flutter)
-  - AI and Robotics (practical implementation and integrations)
-  - Databases (PostgreSQL & MySQL )
+  - Building AI-powered Applications & RAG Systems
+  - Real-time E2EE Communication Systems (WebRTC)
+  - Full Stack Architecture (Next.js, Node.js, Python, FastAPI)
+  - Cross-platform Mobile Apps (Flutter, React Native)
 
 Specialization:
-  - Cross platform mobile applications
-  - Scalable full stack web applications
-  - UI/UX implementation and product thinking
+  - Secure Fintech workflows & API governance
+  - Multi-tenant architectures (ERP, CRM)
+  - Clean code, performance optimization, and scalable systems
 
 Core Values:
   - Clean, maintainable code
@@ -60,7 +60,7 @@ Core Values:
   - Innovation through technology
 ```
 
-> *"I build reliable, maintainable software, with emphasis on clean interfaces and scalable systems"*
+> *"I build scalable, secure, and production-ready applications across ERP, CRM, fintech, real-time E2EE chat, AI, and business automation."*
 
 <div align="center">
 
@@ -75,25 +75,25 @@ Core Values:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Mobile & Tools
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -124,9 +124,10 @@ Core Values:
 </div>
 
 ### 🎯 **Key Achievements**
-- 🏆 **CATEGORY WINNER** - Most Innovative Idea, Innovate 4.0 Hackathon (ITCN Asia 2024)
-- 🥈 **Runner Up** - Web Programming Competition, Riphah International University 2023
-- 💰 **Cash Prize & Mentorship** - Innovate 4.0 Pitching Competition
+- 🏆 **Category Winner** - Most Innovative Idea, Innovate 4.0 Hackathon (ITCN Asia 2024)
+- 🥈 **2nd Position** - Web Programming, Hackathon DevFest '23 by WTM
+- 🌐 **Ambassador** - Web3 Pak (Science & Tech)
+- 🤖 **Management Team** - AI Community of Pakistan
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFahaddev/MuhammadFahaddev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadFahaddev/MuhammadFahaddev/output/github-contribution-grid-snake.svg">
@@ -137,10 +138,10 @@ Core Values:
 
 
 ### 🎯 **Current Focus Areas**
-- 🔨 **Building:** Cross platform Web applications with testing and CI
-- 🤖 **Integrating:** AI features and conversational agents
-- 🌟 **Contributing:** Open source libraries for Web developers
-- 📚 **Learning:** Agentic and Robotic AI Engineer
+- 🔨 **Building:** Secure ERP, CRM, and Fintech production applications
+- 🤖 **Integrating:** Advanced AI workflows and Vector Databases (RAG)
+- 💬 **Architecting:** Real-time end-to-end encrypted chat systems (WebRTC)
+- 📚 **Learning:** Expanding expertise in Cloud infrastructure and scalable deployments
 
 ---
 
@@ -163,7 +164,7 @@ Core Values:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_My_Website-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a)](https://fahaddev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_My_Website-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a)](https://thefahad.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/muhammadfahaddev)
 [![Gmail](https://img.shields.io/badge/📧_Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:muhammadfahad.dev@gmail.com)
 
@@ -198,7 +199,7 @@ Core Values:
 **Ready to collaborate on impactful products?**  
 **Let's create something amazing together! 🚀**
 
-**Seeking:** Mid-level software engineering roles, internship to full-time transitions, and collaboration opportunities.
+**Seeking:** Mid-level software engineering roles, high-impact consulting, and collaboration opportunities.
 
 <!-- Clean Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
