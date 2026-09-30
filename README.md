@@ -105,10 +105,10 @@ Core Values:
 
 <!-- Advanced GitHub Stats with cache busting -->
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFahaddev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahaddev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahaddev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=makefile,java,php,jupyter%20notebook,c%2B%2B&cache_seconds=1800"/>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFahaddev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<!-- Total Contributions Only (no streak) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFahaddev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=true&hide_longest_streak=true"/>
 
 <!-- Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadFahaddev&theme=tokyonight"/>
